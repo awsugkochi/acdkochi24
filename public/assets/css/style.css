@@ -852,6 +852,10 @@ h6 {
   margin-bottom: 5px;
 }
 
+#volunteer .volunteer .details h6 {
+  margin-bottom: 12px;
+}
+
 #volunteer .volunteer .details p {
   color: #fff;
   font-size: 15px;
