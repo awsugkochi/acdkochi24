@@ -711,9 +711,11 @@ h6 {
 }
 
 #about p {
-  font-size: 14px;
+  font-size: 16px;
   margin-bottom: 20px;
   color: #fff;
+  font-family: "Open Sans", sans-serif;
+
 }
 
 /*--------------------------------------------------------------
@@ -850,7 +852,9 @@ h6 {
   font-weight: 600;
   margin-bottom: 5px;
 }
-
+#volunteer .volunteer .details h6 {
+  margin-bottom: 12px;
+}
 #volunteer .volunteer .details p {
   color: #fff;
   font-size: 15px;

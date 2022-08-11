@@ -711,9 +711,10 @@ h6 {
 }
 
 #about p {
-  font-size: 14px;
+  font-size: 16px;
   margin-bottom: 20px;
   color: #fff;
+  font-family: "Open Sans", sans-serif;
 }
 
 /*--------------------------------------------------------------
