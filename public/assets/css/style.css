@@ -355,7 +355,6 @@ h6 {
     left: -100%;
   }
 }
-
 /**
 * Mobile Navigation 
 */
@@ -489,6 +488,11 @@ h6 {
   }
 }
 
+img {
+  max-width:100%;
+  max-height:auto;
+}
+
 #hero:before {
   content: "";
   background: rgba(6, 12, 34, 0.8);
@@ -525,6 +529,7 @@ h6 {
   font-size: 56px;
   font-weight: 600;
   text-transform: uppercase;
+  align-items: center;
 }
 
 #hero h1 span {
