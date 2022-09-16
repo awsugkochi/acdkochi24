@@ -1272,11 +1272,11 @@ img {
 }
 
 #supporters .supporter-logo-2 img {
-  transform: scale(0.7);
+  transform: scale(0.5);
 }
 
 #supporters .supporter-logo-2:hover img {
-  transform: scale(0.9);
+  transform: scale(0.7);
 }
 
 #supporters img {
