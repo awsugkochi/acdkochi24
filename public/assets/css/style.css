@@ -1283,6 +1283,29 @@ img {
   transition: all 0.4s ease-in-out;
 }
 
+#supporters .supporter-logo-3 {
+  padding: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-right: 1px solid #e0e5fa;
+  border-bottom: 1px solid #e0e5fa;
+  overflow: hidden;
+  background: rgba(255, 255, 255, 0.5);
+  height: 160px;
+}
+
+#supporters .supporter-logo-3 img {
+  transform: scale(1.5);
+}
+
+#supporters .supporter-logo-3:hover img {
+  transform: scale(1.7);
+}
+
+#supporters img {
+  transition: all 0.4s ease-in-out;
+}
 /*--------------------------------------------------------------
 # F.A.Q Section
 --------------------------------------------------------------*/
