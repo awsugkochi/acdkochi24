@@ -1,2 +1,2 @@
-# acdkochi23
-AWS Community Day Kochi - 2023 Official Website
+# acdkochi24
+AWS Community Day Kochi - 2024 Official Website
