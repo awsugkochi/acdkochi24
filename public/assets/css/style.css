@@ -14,6 +14,11 @@ body {
   font-family: "Open Sans", sans-serif;
 }
 
+.map{
+  height: 100vh;
+  filter: grayscale(100%) invert(92%) contrast(100%) sepia(100%) hue-rotate(190deg);
+}
+
 a {
   color: #FF9900;
   text-decoration: none;
