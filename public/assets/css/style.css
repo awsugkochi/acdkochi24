@@ -1042,6 +1042,7 @@ img {
 #schedule .schedule-item time {
   padding-bottom: 5px;
   display: inline-block;
+  color: #111111;
 }
 
 #schedule .schedule-item .speaker {
@@ -1061,6 +1062,7 @@ img {
 }
 
 #schedule .schedule-item h4 {
+  color: #111111;
   font-size: 18px;
   font-weight: 600;
   margin-bottom: 5px;
