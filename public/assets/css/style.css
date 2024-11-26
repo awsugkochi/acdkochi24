@@ -1036,13 +1036,14 @@ img {
 }
 
 #schedule .schedule-item:hover {
-  background-color: #fff;
+  background-color: #4a82d0;
 }
 
 #schedule .schedule-item time {
   padding-bottom: 5px;
   display: inline-block;
   color: #111111;
+  ;
 }
 
 #schedule .schedule-item .speaker {
