@@ -135,7 +135,7 @@ async function sharePoster() {
 }
 
 const messages = [
-    "I’m thrilled to be part of AWS Community Day Kochi 2024! Excited to connect with fellow professionals, share knowledge, and dive into a day of learning, networking, and AWS awesomeness. 🚀\n\nLooking forward to learning from the community and sharing my insights too. See you there! 👋",
+    "I’m thrilled to be part of AWS Community Day Kochi 2024! Excited to connect with fellow professionals, share knowledge, and dive into a day of learning, networking, and AWS awesomeness. 🚀\n\nLooking forward to learning from the community and sharing my insights too. See you there! 👋 \n\n",
 ];
 
 
