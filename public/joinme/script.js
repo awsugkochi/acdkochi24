@@ -135,11 +135,7 @@ async function sharePoster() {
 }
 
 const messages = [
-    "Excited to attend AWS Community Day Kochi 2024! 🎉\n\nCan’t wait to connect with fellow cloud enthusiasts on December 14th at Holiday Inn Kochi. It’s going to be a day packed with learning, networking, and all things AWS! 🚀\n\nSee you there? 👋",
-    
-    "On December 14th at Holiday Inn Kochi, I’ll be joining cloud pros and enthusiasts for a day of insights, networking, and AWS fun! Can’t wait to learn and connect. 🚀\n\nWill you be there? 👋",
-    
-    "Looking forward to an inspiring day at Holiday Inn Kochi on December 14th with the amazing AWS community. Ready to dive into all things cloud and connect with you all! 🌐\n\nLet’s make it memorable! 🙌"
+    "I’m thrilled to be part of AWS Community Day Kochi 2024! Excited to connect with fellow professionals, share knowledge, and dive into a day of learning, networking, and AWS awesomeness. 🚀\n\nLooking forward to learning from the community and sharing my insights too. See you there! 👋",
 ];
 
 
